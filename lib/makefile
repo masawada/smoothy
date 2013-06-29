@@ -1,5 +1,5 @@
 # source files
-INPUT = main.js view.js view.log.js view.assert.js log.js assert.js test.js boot.js
+INPUT = main.js view.js view.log.js view.assert.js log.js assert.js assertions.js test.js boot.js
 
 # output file name
 NAME = smoothy
