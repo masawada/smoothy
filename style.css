@@ -68,6 +68,3 @@ h1{
   word-break: break-all;
 }
 
-#tests > li:last-child{
-  border-bottom: none;
-}
